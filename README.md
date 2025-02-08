@@ -1,0 +1,2 @@
+# ELECTRONIC-MEDICAL-RECORDS-EMR-SYSTEM-
+Java and JDBC connectivity
